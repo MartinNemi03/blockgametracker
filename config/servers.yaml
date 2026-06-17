@@ -281,3 +281,7 @@ bedrock:
     address: "play.nethergames.org"
   - name: "MegaSMP"
     address: "play.megasmp.gg"
+  - name: "Oneblock Online"
+    address: "play.oneblockonline.com"
+  - name: "Genwars"
+    address: "play.genwars.com"
